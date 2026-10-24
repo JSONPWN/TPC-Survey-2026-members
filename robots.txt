@@ -1,0 +1,4 @@
+# 2026 TPC Survey — members edition.
+# Password-protected and not for indexing, archiving, scraping or AI training.
+User-agent: *
+Disallow: /

@@ -1,0 +1,141 @@
+{
+  "What is your religious orientation?": [
+    "Atheist",
+    "Agnostic",
+    "Christianity",
+    "Islam",
+    "Hinduism",
+    "Judaism"
+  ],
+  "What is your gender?": [
+    "Male",
+    "Female",
+    "Non-binary",
+    "Agender"
+  ],
+  "What is the highest level of formal training you have in philosophy?": [
+    "I'm an autodidact (self-study)",
+    "I'm in an undergraduate program in philosophy, or have an undergraduate degree in philosophy",
+    "I'm in a graduate program in something other than philosophy, or have a graduate degree in something other than philosophy",
+    "I'm in an undergraduate program in something other than philosophy, or have an undergraduate degree in something other than philosophy",
+    "I'm in a graduate program in philosophy, or have a graduate degree in philosophy",
+    "I'm involved in academic philosophy professionally (including adjuncts, teaching professors, research professors, tenure track etc.)"
+  ],
+  "In what ways do you engage in philosophy in your daily life?": [
+    "Philosophy Books",
+    "Reading Journals/Academic Articles",
+    "Discussion on forums/philosophy groups (e.g., TPC)",
+    "Social Media (Videos, YouTube, etc.)",
+    "Podcasts"
+  ],
+  "What is your position on AI usage? ": [
+    "Mixed",
+    "Against AI usage",
+    "For AI usage"
+  ],
+  "Which fields of Philosophy do you consider to be your strengths?\n\nThis list is non-exhaustive. Enter your specific subfield into Others.": [
+    "Metaphysics",
+    "Ethics",
+    "Philosophy of Mind",
+    "Logic",
+    "Epistemology",
+    "Political Philosophy",
+    "History of Philosophy",
+    "Existentialism",
+    "Philosophy of Science",
+    "Philosophy of Language",
+    "Aesthetics",
+    "Critical Theory",
+    "Phenomenology",
+    "Metaphilosophy",
+    "Non-Western Philosophy",
+    "Feminist Philosophy",
+    "Metaethics",
+    "Social Epistemology"
+  ],
+  "How far do you intend to go in academia?": [
+    "I don't intend to pursue philosophy in academia",
+    "Undecided",
+    "Professor",
+    "Doctorate",
+    "Postgraduate / terminal masters degree",
+    "Undergraduate"
+  ],
+  "Which fields of non-philosophical study or formal knowledge would you say that you have at least undergraduate level knowledge in?": [
+    "Mathematics",
+    "Humanities",
+    "Natural Science",
+    "Computer Science",
+    "Literature",
+    "Social Science",
+    "Engineering",
+    "Economics",
+    "Law"
+  ],
+  "Which areas of philosophy have you actively engaged with/are you most interested in?": [
+    "Metaphysics",
+    "Ethics",
+    "Epistemology",
+    "Philosophy of Mind",
+    "Philosophy of Language",
+    "Logic",
+    "Philosophy of Science",
+    "Existentialism",
+    "Phenomenology",
+    "Political Philosophy",
+    "Critical Theory",
+    "Aesthetics",
+    "History of Philosophy",
+    "Feminist Philosophy",
+    "Metaphilosophy",
+    "Non-Western Philosophy"
+  ],
+  "Meta-ethics": [
+    "Accept or lean towards: Moral realism",
+    "Accept or lean towards: Moral anti-realism",
+    "Accept a combination of views",
+    "Insufficiently familiar with the issue",
+    "Agnostic/undecided",
+    "The question is too unclear",
+    "Accept an alternative view",
+    "There is no fact of the matter"
+  ],
+  "Free will: \n\nlibertarianism, no free will, or compatibilism?": [
+    "Accept or lean towards: compatibilism",
+    "Accept or lean towards: libertarianism",
+    "Accept or lean towards: no free will",
+    "Agnostic/Undecided",
+    "Accept a combination of views",
+    "There is no fact of the matter",
+    "Insufficiently familiar with the issue",
+    "Accept an alternative view",
+    "The question is too unclear to answer"
+  ],
+  "Hard Problem of Consciousness: Does consciousness exist? ": [
+    "Accept or lean towards: yes",
+    "The question is too unclear to answer",
+    "Accept a combination of views",
+    "Insufficiently familiar with the issue",
+    "Agnostic/Undecided",
+    "Accept or lean towards: no",
+    "There is no fact of the matter",
+    "Accept an alternative view"
+  ],
+  "Immortality: Would you choose it?": [
+    "Accept or lean towards: no",
+    "Accept or lean towards: yes",
+    "Undecided/Agnostic",
+    "Accept a combination of views",
+    "The question is too unclear to answer",
+    "Insufficiently familiar with the issue",
+    "There is no fact of the matter"
+  ],
+  "Wake up, you're in a simulation!": [
+    "That's possible but I'm not in a simulation right now",
+    "That's not possible",
+    "N/A",
+    "Question is too unclear to answer",
+    "That's possible and I'm in a simulation right now",
+    "Agnostic/Undecided"
+  ]
+}
